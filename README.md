@@ -14,33 +14,33 @@ Nie miał on stylować formularza a jedynie stworzyć widoki działające w spos
 ![Diagram Aktywności](./diagram-aktywnosci.drawio.png)
 
 ## Twoje zadanie
-1) Zaimportuj to repozytorium na swoim koncie GitHub lub Bitbucket
-    - GitHub
-        - Wejdź na stronę [https://github.com/new/import](https://github.com/new/import)
-        - Wpisz adres do tego repozytorium `https://bitbucket.org/rekinysukcesu/zadanie-programista-js.git`
-        - Ustaw repo jako publiczne
-        - Kliknij `Begin import`
-    - Bitbucket
-        - Wejdź na stronę [https://bitbucket.org/repo/import](https://bitbucket.org/repo/import)
-        - Wpisz adres do tego repozytorium `https://bitbucket.org/rekinysukcesu/zadanie-programista-js.git`
-        - Ustaw repo jako publiczne
-        - Kliknij `Import repository`
-1) Utwórz pull request z brancha `form` do brancha `master`.
-1) Sprawdź pull request:
-    - Dodaj komentarz do całego pull requesta z ogólnymi uwagami do całego rozwiązania
-    - Dodaj komentarz do poszczególnych linii kodu
-        - Opisz błąd z tej lini lub bloku kodu
-        - Zaproponuj możliwe rozwiązanie
-        - Możesz dodać snippet kodu z przykładową poprawką
-        - Jeżeli to możliwe zaproponuj w jaki sposób automatycznie można uniknąć tego błędu w przyszłości.
-    - Sprawdzając PR zwracaj uwagę na elementy takie jak:
-        - Struktura kodu
-        - Czystość repozytorium
-        - Czystość kodu
-        - Code Smells
-        - Łamanie zasad SOLID i DRY
-        - Możliwość wprowadzenia wzorców projektowych
-1) Link do sprawdzonego PR na Twoim koncie prześlij do nas emailem w celu weryfikacji.
+* Zaimportuj to repozytorium na swoim koncie GitHub lub Bitbucket
+    * GitHub
+        * Wejdź na stronę [https://github.com/new/import](https://github.com/new/import)
+        * Wpisz adres do tego repozytorium `https://bitbucket.org/rekinysukcesu/zadanie-programista-js.git`
+        * Ustaw repo jako publiczne
+        * Kliknij `Begin import`
+    * Bitbucket
+        * Wejdź na stronę [https://bitbucket.org/repo/import](https://bitbucket.org/repo/import)
+        * Wpisz adres do tego repozytorium `https://bitbucket.org/rekinysukcesu/zadanie-programista-js.git`
+        * Ustaw repo jako publiczne
+        * Kliknij `Import repository`
+* Utwórz pull request z brancha `form` do brancha `master`.
+* Sprawdź pull request:
+    * Dodaj komentarz do całego pull requesta z ogólnymi uwagami do całego rozwiązania
+    * Dodaj komentarz do poszczególnych linii kodu
+        * Opisz błąd z tej lini lub bloku kodu
+        * Zaproponuj możliwe rozwiązanie
+        * Możesz dodać snippet kodu z przykładową poprawką
+        * Jeżeli to możliwe zaproponuj w jaki sposób automatycznie można uniknąć tego błędu w przyszłości.
+    * Sprawdzając PR zwracaj uwagę na elementy takie jak:
+        * Struktura kodu
+        * Czystość repozytorium
+        * Czystość kodu
+        * Code Smells
+        * Łamanie zasad SOLID i DRY
+        * Możliwość wprowadzenia wzorców projektowych
+* Link do sprawdzonego PR na Twoim koncie prześlij do nas emailem w celu weryfikacji.
 
 ## Powodzenia!
 
