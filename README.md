@@ -4,7 +4,7 @@ Wyobraź sobie, że jako JavaScript Developer w naszej firmie dostałeś kod do 
 Autorem kodu jest dzielny Zuch Stażysta.
 Podczas wykonania swojego zadania starał się najlepiej ze swoich sił napisać kod w oparciu o paradygmat programowania obiektowego.
 Niestety nie poszło mu najlepiej, czego potwierdzenie możesz znaleźć w tym repozytorium na branchu `form`.
-I tu zaczyna się twoje zadanie.
+I tu zaczyna się Twoje zadanie.
 
 ## Opis zadania wykonywanego przez Zucha Stażystę
 Zadaniem naszego zucha było przygotowanie logiki dla formularza, który ma następnie zostać wdrożony na naszej stronie internetowej [rekinysukcesu.pl](https://rekinysukcesu.pl).
